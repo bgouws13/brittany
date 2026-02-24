@@ -3,3 +3,5 @@ Hello,
 this is a testing txt file before upload to github
 
 editing on github right now after push
+
+editing in notepad after pull
