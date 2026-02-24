@@ -1,0 +1,3 @@
+Hello,
+
+this is a testing txt file before upload to github
